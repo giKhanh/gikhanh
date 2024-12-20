@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gia khanh</h1>
 <h3 align="center">a fresher mobile developer</h3>
 
-- 🔭 I’m currently working on **final project**
+- 🔭 I’m currently working on **get a job**
 
 - 🌱 I’m currently learning **flutter**
 
